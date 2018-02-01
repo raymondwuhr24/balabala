@@ -1,0 +1,13 @@
+R in action
+Data analysis and graphics using R
+Modern applied statistics with S
+Data manipulation with R
+R Graphics Cookbook
+An introduction to statistical learning with application in R
+A handbook of statistical analysis using R
+Exploratory Data Analysis
+Exploratory Data Analysis with MATLAB
+Visualize This
+The Element of Statistical Learning
+Data Mining: Concepts and Techniques
+Past, Present and Future of Statistical Science
